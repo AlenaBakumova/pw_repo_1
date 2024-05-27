@@ -1,0 +1,14 @@
+{
+  "name": "pw_repo_1",
+  "version": "1.0.0",
+  "description": "pw_repo_1",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.12"
+  }
+}
